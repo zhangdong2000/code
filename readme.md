@@ -10,3 +10,6 @@ git add readme.md ;
 git commit -m "first commit" ;
 git remote add origin https://gitee.com/cuteboy1582/code.git ;
 git push -u origin master ;
+
+2021-11-10为code创建的令牌
+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
